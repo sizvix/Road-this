@@ -1,0 +1,37 @@
+{
+  "extensionName": {
+    "message": "Road map",
+    "description": "Road on maps."
+  },
+
+  "mapThis": {
+    "message": "View on map",
+    "description": "Title of context menu item to open this adress with Bing."
+  },
+
+  "thisRoad": {
+    "message": "Road to this",
+    "description": "Title of context menu item to open road to this adress with Bing."
+  },
+
+  "params": {
+    "message": "Parameters",
+    "description": "Title menu to show parameters page."
+  },
+
+  "org_pg": {
+    "message": "Origin page",
+    "description" : "Open this origin page of this link"
+  },
+
+  "address": {
+    "message": "Addresses",
+    "description" : "Title for address"
+  },
+
+  "ici_lab": {
+    "message": "Here ( automatic when geolocalization will be enabled in webextensions ) :<br/>",
+    "description": "Parameter label for \"here\""
+  }
+
+}

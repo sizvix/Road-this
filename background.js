@@ -51,7 +51,6 @@ chrome.contextMenus.create({
 
 function addPoint(adr,tab){
 //	window.localStorage.clear();
-	alert(JSON.stringify(tab) );
 	var nb = window.localStorage['mp_nb_p']!=undefined ? parseInt(window.localStorage['mp_nb_p'])+1 : 0;
 	var i = 0 ;
 	for(; i<nb ;i++)					// search to fill the first empty place
